@@ -1,7 +1,9 @@
 # EDA_Project
 EDA project On Diwali Sales
-Sales Domain     
+Sales Domain 
+
 -Excel 
+
 -Python Libraries-Pandas, Numpy, Matplotlib].
 
 Cleaned and preprocessed the dataset to ensure data quality and accuracy, using techniques such as data cleaning, data imputation, and outlier detection.
